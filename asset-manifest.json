@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/school-one-web/static/css/main.17e102b8.css",
+    "main.js": "/school-one-web/static/js/main.fe547295.js",
+    "static/js/787.16309b15.chunk.js": "/school-one-web/static/js/787.16309b15.chunk.js",
+    "static/media/ajij.png": "/school-one-web/static/media/ajij.2643f37dc1da68712203.png",
+    "static/media/21Feb3.jpg": "/school-one-web/static/media/21Feb3.ab70ff032ba31ed0c0e0.jpg",
+    "static/media/gphoto6.jpg": "/school-one-web/static/media/gphoto6.4104eb11ec571110f723.jpg",
+    "static/media/gphoto5.jpg": "/school-one-web/static/media/gphoto5.057c51fd1364e3ccd1ca.jpg",
+    "static/media/book-distribution-1.jpg": "/school-one-web/static/media/book-distribution-1.ae6ae4c3a2d1d0498e37.jpg",
+    "static/media/cImg3.jpg": "/school-one-web/static/media/cImg3.5a0604285ee2d0c4527c.jpg",
+    "static/media/gphoto8.jpg": "/school-one-web/static/media/gphoto8.f5fb73bd9cd92815b3f3.jpg",
+    "static/media/cImg1.jpg": "/school-one-web/static/media/cImg1.63f4f3117739b28c9057.jpg",
+    "static/media/logo-2.png": "/school-one-web/static/media/logo-2.1961099062c91f331a45.png",
+    "static/media/cImg2.jpg": "/school-one-web/static/media/cImg2.b6ba967e915ddc104153.jpg",
+    "static/media/gphoto9.jpg": "/school-one-web/static/media/gphoto9.447a27ba69a2f42ddc6b.jpg",
+    "static/media/headTeacher.jpg": "/school-one-web/static/media/headTeacher.ca61f9093351f9840b7b.jpg",
+    "static/media/logo.svg": "/school-one-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/school-one-web/index.html",
+    "main.17e102b8.css.map": "/school-one-web/static/css/main.17e102b8.css.map",
+    "main.fe547295.js.map": "/school-one-web/static/js/main.fe547295.js.map",
+    "787.16309b15.chunk.js.map": "/school-one-web/static/js/787.16309b15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17e102b8.css",
+    "static/js/main.fe547295.js"
+  ]
+}
